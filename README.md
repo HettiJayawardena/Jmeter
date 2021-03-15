@@ -1,4 +1,7 @@
 # Jmeter
+
+1. Tests.jmx
+
 This Project contains my case studies using Jmeter
 Perfomance Testing of an Application
 
@@ -44,3 +47,11 @@ Third Test Case
    It is assumed that URL can be changed in the future, therefore a base URL has been added
 
    And finally a tabular report with a graph is generated 
+
+   
+   2. performance.jmx
+      The peformance of www.jedox.com is tested using jp@gc - Stepping Thread Group. The results are shown in different graphical methods
+      
+   3. RegularExpression.jmx
+
+      The use of regular expression in Jmeter is tested. First it navigate to  www.jedox.com main page and navigate to a sub-page based on the regular expressions specified. 
